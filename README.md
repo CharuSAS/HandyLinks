@@ -1,5 +1,5 @@
 # HandyLinks
-[https://www.pharmasug.org/proceedings/2023/HT/PharmaSUG-2023-HT-356.pdf] SQL 101
+[https://www.pharmasug.org/proceedings/2023/HT/PharmaSUG-2023-HT-356.pdf] SQL 101<br/>
 SQL Master Class
 SQL Primer - Part 1
 SQL Primer - Part 2

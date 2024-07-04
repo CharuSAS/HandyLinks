@@ -16,6 +16,5 @@
 <a href="https://blogs.sas.com/content/sastraining/2014/07/11/getting-things-in-order-with-proc-sql-macro-and-a-sas-function/">Getting things in order with PROC SQL, macro and a SAS function</A><BR/>
 <a href="https://www.scsug.org/wp-content/uploads/2017/10/One-to-one-One-to-many-and-Many-to-many-Joins-Using-PROC-SQL-SCSUG-2017.pdf">One-to-One, One-to-Many, and Many-to-Many Joins Using PROC SQL </A><BR/>
 <a href="https://blogs.sas.com/content/sastraining/2015/05/27/life-saver-tip-for-comparing-proc-sql-join-with-sas-data-step-merge/">Life saver tip for comparing PROC SQL join with SAS data step merge</A><BR/>
-<a href="https://www.sas.com/en_us/webinars/data-step-and-proc-sql.html">Why choose between SAS data step and PROC SQL when you can have both?</A><BR/>
 <a href="https://www.scsug.org/wp-content/uploads/2017/10/One-to-one-One-to-many-and-Many-to-many-Joins-Using-PROC-SQL-SCSUG-2017.pdf">One-to-One, One-to-Many, and Many-to-Many Joins Using PROC SQL </A><BR/>
 <a href="https://www.sas.com/en_us/webinars/data-step-and-proc-sql.html">Why choose between SAS data step and PROC SQL when you can have both?</A><BR/>

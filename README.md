@@ -1,5 +1,5 @@
 # HandyLinks
-
+[SQL 101](]https://www.pharmasug.org/proceedings/2023/HT/PharmaSUG-2023-HT-356.pdf)<br/>
  [Section `[https://www.pharmasug.org/proceedings/2023/HT/PharmaSUG-2023-HT-356.pdfs`](#sql101)<br/>
 
 ## sql101 <br/>

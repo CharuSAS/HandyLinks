@@ -1,6 +1,11 @@
 # HandyLinks
 [https://www.pharmasug.org/proceedings/2023/HT/PharmaSUG-2023-HT-356.pdf](#sssql101)<br/>
 ##SQL 101 <a id='sssql101'></a><br/>
+
+in [Section `[https://www.pharmasug.org/proceedings/2023/HT/PharmaSUG-2023-HT-356.pdfs`](#sql101)<br/>
+
+## sql101 <br/>
+
 SQL Master Class<br/>
 SQL Primer - Part 1<br/>
 SQL Primer - Part 2<br/>

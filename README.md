@@ -7,17 +7,17 @@ SQL Primer - Part 1<br/>
 SQL Primer - Part 2<br/>
 <a href="https://www.youtube.com/watch?v=BOrk-qY4xjk">The Power of SAS SQL</a><br/>
 Top 5 PROC SQL hacks<br/>
-<a href="https://www.youtube.com/watch?v=1xyHE8qI9Hk> Step-by-step PROC SQL</a><br/>
-<a href="https://blogs.sas.com/content/sastraining/2012/03/23/whats-in-a-name-sql-join-or-set/> What's in a name SQL join or SET</a><br/>
-<a href="https://www.pharmasug.org/proceedings/2018/BB/PharmaSUG-2018-BB11.pdf">Know Thy Data: Techniques for Data Exploration</a><br/>
+<a href="https://www.youtube.com/watch?v=1xyHE8qI9Hk"> Step-by-step PROC SQL</a><br/>
+<a href="https://blogs.sas.com/content/sastraining/2012/03/23/whats-in-a-name-sql-join-or-set/"> What's in a name SQL join or SET</a><br/>
+<a href="https://www.pharmasug.org/proceedings/2018/BB/PharmaSUG-2018-BB11.pdf">Know Thy Data: Techniques for Data Exploration></a><br/>
 <a href="https://blogs.sas.com/content/sastraining/2012/04/24/go-home-on-time-with-these-5-proc-sql-tips/"> Go home on time with these 5 PROC SQL tips</a><br/>
 <a href="https://blogs.sas.com/content/sastraining/2014/07/11/getting-things-in-order-with-proc-sql-macro-and-a-sas-function/"> Getting things in order with PROC SQL, macro and a SAS function</a><br/>
-<a href="[https://blogs.sas.com/content/sastraining/2015/05/27/life-saver-tip-for-comparing-proc-sql-join-with-sas-data-step-merge/] Life saver tip for comparing PROC SQL join with SAS data step merge<br/>
-<a href="https://www.youtube.com/watch?v=BuuUqsx0HUU>Top Confessions of a PROC SQL Instructor</a><br/>
+<a href="[https://blogs.sas.com/content/sastraining/2015/05/27/life-saver-tip-for-comparing-proc-sql-join-with-sas-data-step-merge/"> Life saver tip for comparing PROC SQL join with SAS data step merge<br/>
+<a href="https://www.youtube.com/watch?v=BuuUqsx0HUU">Top Confessions of a PROC SQL Instructor</a><br/>
 Top SQL Hacks & Efficiencies <br/>
 	5 Secrets of the SQL Goddess<br/>
 	Advanced PROC SQL techniques<br/>
-<a href="https://www.pharmasug.org/proceedings/2019/AP/PharmaSUG-2019-AP-047.pdf>Confessions of a PROC SQL instructor</a><br/>
+<a href="https://www.pharmasug.org/proceedings/2019/AP/PharmaSUG-2019-AP-047.pdf">Confessions of a PROC SQL instructor</a><br/>
 <a href="https://www.youtube.com/watch?v=afICXE5iZYo">SAS Tutorial: Master the WHERE Clause in a SQL Query</a><br/>
 	Onwards and upwards with 5 PROC SQL tips<br/>
 <a href="https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Montreal-User-Group/6-proc-sql-tips.pdf">Top 5 PROC SQL tips you didn't think were possible</a><br/>

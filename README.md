@@ -17,11 +17,5 @@
 <a href="https://www.scsug.org/wp-content/uploads/2017/10/One-to-one-One-to-many-and-Many-to-many-Joins-Using-PROC-SQL-SCSUG-2017.pdf">One-to-One, One-to-Many, and Many-to-Many Joins Using PROC SQL </A><BR/>
 <a href="https://blogs.sas.com/content/sastraining/2015/05/27/life-saver-tip-for-comparing-proc-sql-join-with-sas-data-step-merge/">Life saver tip for comparing PROC SQL join with SAS data step merge</A><BR/>
 <a href="https://www.sas.com/en_us/webinars/data-step-and-proc-sql.html">Why choose between SAS data step and PROC SQL when you can have both?</A><BR/>
-![image](https://github.com/CharuSAS/HandyLinks/assets/38862123/c01ca2e7-9649-474b-8e47-01ae111ec1a5)
-
 <a href="https://www.scsug.org/wp-content/uploads/2017/10/One-to-one-One-to-many-and-Many-to-many-Joins-Using-PROC-SQL-SCSUG-2017.pdf">One-to-One, One-to-Many, and Many-to-Many Joins Using PROC SQL </A><BR/>
 <a href="https://www.sas.com/en_us/webinars/data-step-and-proc-sql.html">Why choose between SAS data step and PROC SQL when you can have both?</A><BR/>
-<a href="https://www.sas.com/en_us/webinars/data-step-and-proc-sql.html">Why choose between SAS data step and PROC SQL when you can have both?</A><BR/>
-
-
-
